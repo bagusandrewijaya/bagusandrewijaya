@@ -1,6 +1,9 @@
 - 👋 Hi, I’m @bagusandre07
 - 👀 I’m programmer amatir
 - 🌱 I’m just learning and fun for pragraming
+
+
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bagusandre07)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
