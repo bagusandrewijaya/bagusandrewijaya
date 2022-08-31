@@ -17,6 +17,7 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bagusandre07&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bagusandre07&layout=compact&theme=gruvbox)](https://github.com/bagusandre07/github-readme-stats)
 
 <!---
 bagusandre07/bagusandre07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
