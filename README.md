@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bagusandre07
-- 👀 I’m programmer amatir
+- 👀 I'm an amateur programmer
 - 🌱 I’m just learning and fun for pragraming
 <div>
 
