@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bagusandre07
+- 👋 Hi, I’m @Bagus Andre Wijaya
 - 👀 I'm an amateur programmer
 - 🌱 I’m just learning and fun for pragraming
 <div>
