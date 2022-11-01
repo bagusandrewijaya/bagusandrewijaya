@@ -11,7 +11,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
 
 </div>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)]
+[![GitHub Streak](https://streak-stats.demolab.com/?user=bagusandre07)](https://git.io/streak-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bagusandre07&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bagusandre07&layout=compact&theme=gruvbox)](https://github.com/bagusandre07/github-readme-stats)
