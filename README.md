@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **Flutter And Node Js**
 
-- 👨‍💻 All of my projects are available at [https://portofolioku.pages.dev/#/](https://portofolioku.pages.dev/#/)
+- 👨‍💻 My Portofolio [https://portofolioku.pages.dev/#/](https://portofolioku.pages.dev/#/)
 
 - 💬 Ask me about **Flutter**
 
 - 📫 How to reach me **wijayabagusandre@gmail.com**
 
-- ⚡ Fun fact **I**
+- ⚡ Fun fact **Make Some Apps Beautiful And Secure**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
