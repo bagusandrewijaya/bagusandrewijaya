@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm andre 
-[![name](toppng.com-report-abuse-png-kawaii-face-cat-494x380.png =400x250)](https://thecodebuzz.com/how-to-add-image-to-excel-files-using-npoi/)
 </h1>
+	
+![alt text](https://github.com/bagusandrewijaya/bagusandrewijaya/blob/main/toppng.com-report-abuse-png-kawaii-face-cat-494x380.png)
+
 <h3 align="center">Android Developer And Backend Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bagusandre07&label=Profile%20views&color=0e75b6&style=flat" alt="inknown1" /> </p>
