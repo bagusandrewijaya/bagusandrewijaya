@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm andre <img src="https://github.com/bagusandrewijaya/bagusandrewijaya/blob/main/toppng.com-report-abuse-png-kawaii-face-cat-494x380.png" width="250" height="200">
+<h1 align="center">Hi 👋, I'm Bagus Andre Wijaya<img src="https://github.com/bagusandrewijaya/bagusandrewijaya/blob/main/toppng.com-report-abuse-png-kawaii-face-cat-494x380.png" width="250" height="200">
 
 </h1>
 
