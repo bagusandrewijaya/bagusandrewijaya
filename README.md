@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bagus Andre Wijaya 
-<h3 align="center"> <tr> Android Developer And Backend Developer</h3>
-  <img src="https://github.com/bagusandrewijaya/bagusandrewijaya/blob/main/toppng.com-report-abuse-png-kawaii-face-cat-494x380.png" width="250" height="200">
 
+  <img src="https://github.com/bagusandrewijaya/bagusandrewijaya/blob/main/toppng.com-report-abuse-png-kawaii-face-cat-494x380.png" width="250" height="200">
+<h3 align="center"> <tr> Android Developer And Backend Developer</h3>
 </h1>
 
 
