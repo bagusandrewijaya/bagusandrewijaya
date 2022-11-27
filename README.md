@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm andre 
 </h1>
-	
-![alt text](https://github.com/bagusandrewijaya/bagusandrewijaya/blob/main/toppng.com-report-abuse-png-kawaii-face-cat-494x380.png = 400x250)
+
+<img style="height:"50px",width:"50px" src=https://github.com/bagusandrewijaya/bagusandrewijaya/blob/main/toppng.com-report-abuse-png-kawaii-face-cat-494x380.png>
 
 <h3 align="center">Android Developer And Backend Developer</h3>
 
