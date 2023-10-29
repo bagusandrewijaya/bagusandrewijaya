@@ -5,7 +5,7 @@
 </h1>
 
 # 💫 About Me:
-🌱 I’m currently learning Flutter And Node Js<br><br>👨‍💻 My Portofolio https://portofolioku.pages.dev/#/<br><br>💬 Ask me about Flutter<br><br>📫 How to reach me wijayabagusandre@gmail.com<br><br>⚡ Fun fact Make Some Apps Beautiful And Secure
+🌱 I’m currently work and learning Flutter Node Js And Python<br><br>👨‍💻 My Portofolio https://portofolioku.pages.dev/#/<br><br>💬 Ask me about Flutter<br><br>📫 How to reach me wijayabagusandre@gmail.com<br><br>⚡ Fun fact Make Some Apps Beautiful because securing your privacy its my priority 
 
 
 # 💻 Tech Stack:
