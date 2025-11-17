@@ -6,7 +6,7 @@
 
 <img src="https://github.com/bagusandrewijaya/bagusandrewijaya/blob/main/toppng.com-report-abuse-png-kawaii-face-cat-494x380.png" width="180" height="150">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bagusandrewijaya)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bagusandrw07)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wijayabagusandre@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://pub.dev/publishers/kitahealth.my.id/packages)
 
